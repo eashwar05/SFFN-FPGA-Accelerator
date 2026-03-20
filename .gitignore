@@ -28,4 +28,4 @@ Thumbs.db
 
 # --- Massive Data Files ---
 # If your weights.hex is over 100MB, uncomment the line below:
-# weights.hex
+weights.hex
