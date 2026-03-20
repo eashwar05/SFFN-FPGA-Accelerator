@@ -1,0 +1,31 @@
+# --- ModelSim / Simulation Junk ---
+work/
+transcript
+vsim.wlf
+*.bak
+msim_transcript
+
+# --- Quartus Prime Compilation Junk ---
+db/
+incremental_db/
+output_files/
+greybox_tmp/
+hc_output/
+hps_isw_software/
+simulation/
+*.rpt
+*.summary
+*.jdi
+*.pin
+*.qws
+*.done
+*.sld
+*.smsg
+
+# --- OS Junk ---
+Thumbs.db
+.DS_Store
+
+# --- Massive Data Files ---
+# If your weights.hex is over 100MB, uncomment the line below:
+# weights.hex
